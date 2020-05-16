@@ -1,0 +1,23 @@
+HOME WORK
+CEM 601
+DESIGN OF STEEL ELEMENTS
+
+Q.1) (a) Design a suitable bolted bracket connection of a ISHT-75 section attached to the flange of a ISHB 300 at 577 N/m to carry a vertical factored load of 600 KN at an eccentricity of 300 mm. use M24 bolts of grade4.6. Load is lying perpendicular to the plane of bolts. 
+(b) What is prying force?
+(c) An ISA l50mm x l l5mm x l2mm angle section is to be connected to a 12 mm thick gusset plate at site. Design the fillet weld to carry a load equal to strength of member.
+
+Q.2) (a) A single angle member carries a factored axial force of 400 KN. Design the member and the connection with the gusset plate and a lug angle. The yield strength and ultimate strength of material is 250 MPa and 410 MPa
+(b) Design a laterally supported beam of effective span of 5m. for the following data.  Grade of steel Fe 410 Factored maximum Bending moment is 150 KN, b) Factored shear force is 280 KN. 
+
+Q.3) (a) Design a Built up column l0m long to carry factored axial load of 1080 KN. The Column is restrained in position but not in direction at both ends. Provide single lacing systems with bolted connection. Assume steel Fe 410 grade & bolts of grade 4.6. Design the column with two channels Back to Back. 
+(b) What is web buckling and web crippling?
+ 
+Q.4)(a) What is the application of Influence line diagram concept in Steel design, explain your answer with a suitable example.
+(b) What are the elements of plate girder? Under what circumstances web plates are stiffened and unstiffened?
+
+Q.5 (a) Deign a welded plate girder for simply supported bridge deck beam with clear span 24 m, subjected to DL(excluding self-weight)= 20 KN/M and LL = 10 KN/M and two concentrated loads of 150 KN  which is placed at 6m from each end. Assume that, top compression flange of plate girder is restrained laterally and prevented from rotating. Use Fe 415 grade steel, Design as a welded plate girder with thick web. 
+(b) Compression member are more critical than Tension Member, Comment. 
+                                                                                                                                                                                                                
+
+
+
